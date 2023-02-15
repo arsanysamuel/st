@@ -1,6 +1,6 @@
 # **st** - simple terminal
 
-This is my build of the [suckless st](https://st.suckless.org/), including extra configuration and applied patches.
+This is my build of the [suckless st](https://st.suckless.org/) version 0.9, including extra configuration and applied patches.
 
 **st** is a simple terminal emulator for X which sucks less.
 
