@@ -54,3 +54,4 @@ Based on [Aurélien APTEL](mailto:aurelien.aptel@gmail.com) bt source code.
 These are the [patches](https://st.suckless.org/patches/) that I've applied to my build:
 - [alpha](http://st.suckless.org/patches/alpha/st-alpha-20220206-0.8.5.diff)
 - [alpha focus highlight](https://github.com/juliusHuelsmann/st/releases/download/v2/st-focus-20200731-patch_alpha.diff)
+- [delkey](http://st.suckless.org/patches/delkey/st-delkey-20201112-4ef0cbd.diff)
