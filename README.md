@@ -60,3 +60,4 @@ These are the [patches](https://st.suckless.org/patches/) that I've applied to m
 - [scrollback](https://st.suckless.org/patches/scrollback/st-scrollback-0.8.5.diff)
 - [scrollback-reflow](https://st.suckless.org/patches/scrollback/st-scrollback-reflow-0.8.5.diff)
 - [scrollback-mouse](https://st.suckless.org/patches/scrollback/st-scrollback-mouse-20220127-2c5edf2.diff)
+- [w3m](https://st.suckless.org/patches/w3m/st-w3m-0.8.3.diff)
