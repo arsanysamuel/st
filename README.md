@@ -52,4 +52,4 @@ Based on [Aurélien APTEL](mailto:aurelien.aptel@gmail.com) bt source code.
 ## Patches
 
 These are the [patches](https://st.suckless.org/patches/) that I've applied to my build:
-
+- [alpha](http://st.suckless.org/patches/alpha/st-alpha-20220206-0.8.5.diff)
