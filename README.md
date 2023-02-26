@@ -56,3 +56,4 @@ These are the [patches](https://st.suckless.org/patches/) that I've applied to m
 - [alpha focus highlight](https://github.com/juliusHuelsmann/st/releases/download/v2/st-focus-20200731-patch_alpha.diff)
 - [delkey](http://st.suckless.org/patches/delkey/st-delkey-20201112-4ef0cbd.diff)
 - [newterm-orphan](https://st.suckless.org/patches/newterm/st-newterm-orphan-20210712-4536f46.diff)
+- [anysize](https://st.suckless.org/patches/anysize/st-anysize-20220718-baa9357.diff)
