@@ -58,3 +58,4 @@ These are the [patches](https://st.suckless.org/patches/) that I've applied to m
 - [newterm-orphan](https://st.suckless.org/patches/newterm/st-newterm-orphan-20210712-4536f46.diff)
 - [anysize](https://st.suckless.org/patches/anysize/st-anysize-20220718-baa9357.diff)
 - [scrollback](https://st.suckless.org/patches/scrollback/st-scrollback-0.8.5.diff)
+- [scrollback-reflow](https://st.suckless.org/patches/scrollback/st-scrollback-reflow-0.8.5.diff)
